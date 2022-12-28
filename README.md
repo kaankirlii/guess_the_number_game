@@ -1,4 +1,5 @@
 # guess_the_number_game  
+
 Sayı Tahmini Oyunu (Guess the number)
 Random metodu 1 ve 10 arası sayı atasın. Tahmin edilen sayı kullanıcıdan istensin. 
 While ile döngü sayı bulunana kadar devam etsin. Eğer kullanıcının girdiği sayı,
